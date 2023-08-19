@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1690070901 source:c:\users\sh\desktop\first\projects in c++\online book library\src\user.cpp
+	"User.h"
+
+1689098358 c:\users\sh\desktop\first\projects in c++\online book library\include\user.h
+	<iostream>
+
+1690935082 source:c:\users\sh\desktop\first\projects in c++\online book library\main.cpp
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BooksList.h"
+
+1690394494 c:\users\sh\desktop\first\projects in c++\online book library\include\book.h
+	"User.h"
+
+1690394508 source:c:\users\sh\desktop\first\projects in c++\online book library\src\book.cpp
+	"Book.h"
+
+1690073670 c:\users\sh\desktop\first\projects in c++\online book library\include\userlist.h
+	"User.h"
+	<iostream>
+
+1690073756 source:c:\users\sh\desktop\first\projects in c++\online book library\src\userlist.cpp
+	"UserList.h"
+
+1690325338 c:\users\sh\desktop\first\projects in c++\online book library\include\bookslist.h
+	<iostream>
+	"Book.h"
+
+1690393372 source:c:\users\sh\desktop\first\projects in c++\online book library\src\bookslist.cpp
+	"BooksList.h"
+
